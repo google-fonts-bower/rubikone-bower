@@ -1,0 +1,17 @@
+{
+    "name": "rubikone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Hubert and Fischer"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/rubikone-bower.git"
+    },
+    "description": "Rubik One font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
